@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cardomoku-frontend/static/js/main.909e0080.js",
+    "index.html": "/cardomoku-frontend/index.html",
+    "main.909e0080.js.map": "/cardomoku-frontend/static/js/main.909e0080.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.909e0080.js"
+  ]
+}
